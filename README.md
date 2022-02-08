@@ -8,7 +8,7 @@ npm i @alxmtr/vite-plugin-posthtml
 
 ## Usage
 Edit your `vite.config.js` file:
-'''js
+```js
 import posthtmlPlugin from '@alxmtr/vite-plugin-posthtml'
 
 export default {
@@ -20,7 +20,7 @@ export default {
     }),
   ],
 }
-'''
+```
 
 ## Options
 
