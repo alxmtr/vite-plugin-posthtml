@@ -14,6 +14,9 @@ import posthtmlPlugin from '@alxmtr/vite-plugin-posthtml'
 export default {
   plugins: [
     posthtmlPlugin({
+      options: {
+        // ...
+      },
       plugins: [
         // ...
       ],
