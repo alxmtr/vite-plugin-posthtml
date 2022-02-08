@@ -1,6 +1,6 @@
 {
   "name": "@alxmtr/vite-plugin-posthtml",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Vite plugin to run PostHTML",
   "main": "index.js",
   "scripts": {
